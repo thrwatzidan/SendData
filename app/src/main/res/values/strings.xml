@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Nadia\'s</string>
+    <string name="action_settings">Settings</string>
+    <string name="starters">Starters</string>
+    <string name="entrees">Entrees</string>
+    <string name="desserts">Desserts</string>
+    <string name="join_mailing_list">Join the mailing list</string>
+    <string name="starters_items">Parmesan Deviled Eggs (8)\nArtichokes with Garlic Aoli (9)\nFrench Onion Soup (7)\nMini Cheeseburgers (8)\nPanko Stuffed Mushrooms (7)</string>
+    <string name="join_our_mailing_list">Join our mailing list</string>
+    <string name="name_hint">Name</string>
+    <string name="email_hint">Email</string>
+    <string name="display_map">Display Map</string>
+    <string name="send_text">Send text</string>
+</resources>

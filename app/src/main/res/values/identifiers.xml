@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This file is a work around for a known bug in the layout editor rendering engine-->
+<!--Track the bug at https://issuetracker.google.com/issues/37130611 -->
+<resources>
+    <item name="visible" type="id"/>
+    <item name="masked" type="id"/>
+</resources>
